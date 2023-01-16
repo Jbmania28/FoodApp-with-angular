@@ -1,0 +1,96 @@
+{
+  "restaurants": [
+    {
+      "name": "KFC chicken",
+      "email": "kfc@gmail.com",
+      "address": "manraj park",
+      "id": 1
+    },
+    {
+      "name": "Macdonalds",
+      "address": "shirsoli road road",
+      "email": "MacD@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Aryan Park",
+      "email": "Aryan@gmail.com",
+      "address": "Pachora highway, jalgaon",
+      "id": 3
+    },
+    {
+      "name": "mathura family restro",
+      "email": "mathura@gmail.com",
+      "address": "before Nmu gate NH-6 highway, jalgaon",
+      "id": 4
+    },
+    {
+      "name": "bombay restaurant",
+      "email": "bomby@gmail.com",
+      "address": "Ring road jalgaon",
+      "id": 5
+    },
+    {
+      "name": "Auskarwadi misal",
+      "email": "Auskarwadi@gmail.com",
+      "address": "Bhugaon highway",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "name": "jayesh",
+      "email": "jayesh@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@gmail.com",
+      "password": "1212",
+      "id": 2
+    },
+    {
+      "name": "Samadhan ",
+      "email": "samadhan@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "kalpesh",
+      "email": "kalpesh@gmail.com",
+      "password": "kalpesh@123",
+      "id": 4
+    },
+    {
+      "name": "krunal",
+      "email": "krunal@gmail.com",
+      "password": "krunal@123",
+      "id": 5
+    },
+    {
+      "name": "ankit",
+      "email": "ankit@gmail.com",
+      "password": "ankit@123",
+      "id": 6
+    },
+    {
+      "name": "saurabh",
+      "email": "saurabh@gmail.com",
+      "password": "saurabh@123",
+      "id": 7
+    },
+    {
+      "name": "Suresh",
+      "email": "suresh@gmail.com",
+      "password": "s@123",
+      "id": 8
+    },
+    {
+      "name": "aditya",
+      "email": "aditya@gmail.com",
+      "password": "a@123",
+      "id": 9
+    }
+  ]
+}
