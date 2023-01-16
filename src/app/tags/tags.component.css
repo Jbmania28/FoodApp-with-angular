@@ -1,0 +1,22 @@
+div{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    
+}
+
+div a{
+    background-color: rgb(247, 250, 253);
+    border:1px solid rgb(186, 184, 184);
+    text-decoration: none;
+    padding: .3rem 1rem;
+    margin: .2rem .15rem;
+    border-radius:1px;
+    color:rgb(113, 111, 111)
+}
+
+div a:hover{
+   background-color:rgb(245, 171, 12) ;
+   color:white;
+  transition-duration: .3s;
+}
